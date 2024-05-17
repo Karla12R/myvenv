@@ -1,0 +1,2 @@
+# myvenv
+Curso djangogirls
